@@ -3,6 +3,5 @@ provider "oci" {
   user_ocid = "ocid1.user.oc1..aaaaaaaafyhsucl7sf3eu4b737vuwyq6jnk44tfytennzol4rndrknrkpybq" 
   private_key_path = "$HOME/.oci/tutorial_public.pem"
   fingerprint = "a5:16:9d:b7:bd:c8:c3:92:24:21:87:a6:26:dc:2a:8f"
-  region = "us-phoenix-1
-"
+  region = "us-phoenix-1"
 }
